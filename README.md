@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bora Alp Sesli</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif”>
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boraalpsesli&label=Profile%20views&color=0e75b6&style=flat" alt="boraalpsesli" /> </p>
 
