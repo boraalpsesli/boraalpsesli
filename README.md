@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Dicetination**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **LARAVEL AND REACT**
 
 - 💬 Ask me about **C++,Python**
 
